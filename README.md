@@ -14,8 +14,8 @@ Quantity | Item
 36 | SK-33 sockets
 36 | 1N4148SOD-123 diodes
 1 | LoremIpsum36 case
-8 | M2×3 heat-set threaded inserts
-8 | M2×12 countersunk screws
+10 | M2×3 heat-set threaded inserts
+10 | M2×12 countersunk screws
 
 ## Production Files
 
