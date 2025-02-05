@@ -28,6 +28,10 @@ To place an order for the LoremIpsum36 PCB:
 
 All components (except the MCU) are soldered to the back (bottom) side of the board.
 
+![](images/soldering.jpg)
+
+> ⚠️ To maintain the low profile of the board, the MCU (RP2040-Zero) must be soldered **on the front (top) side** of the PCB, with its components facing **downwards**. The **boot/reset button** should face the **bottom** side of the keyboard. Double-check alignment before soldering to avoid incorrect placement.
+
 The complete PCB design project is available in the [kicad/](kicad/) folder.
 
 ## 3D Printable Files
