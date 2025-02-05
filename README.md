@@ -41,7 +41,9 @@ The complete PCB design project is available in the [kicad/](kicad/) folder.
 
 ![](images/case.jpg)
 
-Print the case and plate using the provided [STL files](case/).
+Print the `loremipsum36-top` and `loremipsum36-bottom` case using the provided [STL files](case/), along with the threaded inserts and M2 screws.  
+
+If you prefer to use the keyboard without a case, you will need to print the plate `loremipsum36-plate`, or laser cut a plate using the provided DXF file.
 
 ## Firmware
 
