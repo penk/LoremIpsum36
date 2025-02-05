@@ -4,8 +4,6 @@
 
 ## Bill of Materials (BOM)
 
-![](images/bom.jpg)
-
 Quantity | Item
 --- | ---
 1 | RP2040-Zero
@@ -16,6 +14,8 @@ Quantity | Item
 1 | LoremIpsum36 case
 10 | M2×3 heat-set threaded inserts
 10 | M2×12 countersunk screws
+
+![](images/bom.jpg)
 
 ## Production Files
 
@@ -28,8 +28,10 @@ All components (except the MCU) are soldered to the **back (bottom)** side of th
 
 ![](images/pcb.jpg)
 
-> ⚠️ **Important:** To maintain the low profile of the board, the MCU (RP2040-Zero) must be soldered **on the front (top)** side of the PCB, with its components facing **downwards**. The boot/reset button should face the bottom side of the keyboard.
-> Double-check alignment before soldering to avoid incorrect placement.
+> [!CAUTION]
+> To maintain the low profile of the board, the MCU (RP2040-Zero) must be soldered **on the front (top)** side of the PCB, with its components facing **downwards**. 
+
+> The boot/reset button should face the bottom side of the keyboard. Double-check alignment before soldering to avoid incorrect placement.
 
 ![](images/soldering.jpg)
 
