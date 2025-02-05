@@ -9,7 +9,7 @@ Quantity | Item
 1 | RP2040-Zero
 1 | LoremIpsum36 PCB
 36 | Gateron LP switches and keycaps 
-36 | SK-33 sockets
+36 | KS-33 sockets
 36 | 1N4148SOD-123 diodes
 1 | LoremIpsum36 case
 10 | M2×3 heat-set threaded inserts
