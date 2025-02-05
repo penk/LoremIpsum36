@@ -1,4 +1,4 @@
-## LoremIpsum36 - A minimal Gateron LP column staggered build
+## LoremIpsum36 - A minimal Gateron LP column staggered keyboard
 
 ![](images/heroshot.jpg)
 
@@ -31,7 +31,7 @@ All components (except the MCU) are soldered to the **back (bottom)** side of th
 > [!CAUTION]
 > To maintain the low profile of the board, the MCU (RP2040-Zero) must be soldered **on the front (top)** side of the PCB, with its components facing **downwards**. 
 
-> The boot/reset button should face the bottom side of the keyboard. Double-check alignment before soldering to avoid incorrect placement.
+The boot/reset button should face the bottom side of the keyboard. Double-check alignment before soldering to avoid incorrect placement: 
 
 ![](images/soldering.jpg)
 
